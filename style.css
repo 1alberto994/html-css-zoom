@@ -29,7 +29,7 @@ header{
 li{
     margin: 3px;
 }
-a{
+.bg-link{
     text-decoration: none;
     
     color: white;
@@ -81,4 +81,9 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.link2{
+    text-decoration: none;
+    
+    color: white;
 }
